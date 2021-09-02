@@ -1,5 +1,9 @@
 # MyCalculator
 
+x-special/nautilus-clipboard
+copy
+file:///home/muhammad/Desktop/1%20calculator.png
+
 In this app, we're going to look at working with groups of widgets, to see how we can do things like constraining them to be positioned as a group, as well as setting common properties for multiple widgets at the same time.
 
 We'll also show a slightly different approach to creating an OnClickListener, so that the same method can be used by multiple buttons.
